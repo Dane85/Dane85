@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <h2>Follow Me On</h2>h2>
+  <h2>Follow Me On</h2>
   <a href="https://www.linkedin.com/in/dane-w-69a42313a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
