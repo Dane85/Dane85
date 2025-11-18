@@ -41,10 +41,6 @@ Academically, I'm pursuing a Bachelor of Science in Computing and Information Sy
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>👨‍🎓 Currently studying @ Athabasca University<br>🎯 Goals: Network Engineer<br>🥋 BJJ Black Belt<br>🎧 Audio Book Lover<br>🗺️ Peterborough, Ontario, Canada<br>🚀 Space Lover<br>👪 Family Man</p>
-
-###
-
 <div align="center">
   <h2>Follow Me On</h2>
   <a href="https://www.linkedin.com/in/dane-w-69a42313a/" target="_blank">
