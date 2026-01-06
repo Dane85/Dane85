@@ -30,8 +30,6 @@ Academically, I'm pursuing a Bachelor of Science in Computing and Information Sy
 
 🎧 Audio Book Lover
 
-🗺️ Peterborough, Ontario, Canada
-
 🚀 Space Lover
 
 👪 Family Man
